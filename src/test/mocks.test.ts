@@ -1,0 +1,2 @@
+export const MOCK_SHIELD_FEE_BASIS_POINTS = 25n;
+export const MOCK_UNSHIELD_FEE_BASIS_POINTS = 25n;
